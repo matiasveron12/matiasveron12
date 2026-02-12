@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Matías 👋
 
-<!--
-**matiasveron12/matiasveron12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Full Stack Developer specialized in building scalable web applications.
+Focused on clean architecture and performance.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+Frontend: React, Next.js, TypeScript  
+Backend: Node.js, Express  
+Database: PostgreSQL, MongoDB  
+Tools: Git, Docker, Vercel  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+
+### 🔹 Project 1 - SaaS Example
+Description of the project.
+Tech: React, Node, PostgreSQL
+Live Demo: link
+Repo: link
+
+### 🔹 Project 2 - REST API
+Description.
+Tech: Node, Express, JWT
+Repo: link
+
+## 📫 Contact
+Email: your@email.com
+LinkedIn: link
+
